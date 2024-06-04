@@ -303,6 +303,10 @@
 
   <!-- end us section -->
 
+  <?php
+    echo "I am happy!";
+  ?>
+
 
   <!-- heathy section -->
 
